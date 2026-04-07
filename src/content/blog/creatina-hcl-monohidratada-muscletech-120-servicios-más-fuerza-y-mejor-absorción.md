@@ -16,7 +16,7 @@ tags:
 publishedAt: 2026-04-07T18:10:00.000Z
 updatedAt: 2026-04-07T18:10:00.000Z
 readingTime: 4 min
-featured: false
+featured: true
 author:
   name: Equipo Fitness Maracay
   role: Asesoría en suplementación deportiva
