@@ -1,4 +1,5 @@
 ---
+slug: creatina-muscletech-hcl-monohidratada-beneficios-uso
 title: "Creatina HCL + Monohidratada Muscletech (120 servicios): más fuerza y
   mejor absorción"
 excerpt: La creatina HCL + monohidratada de Muscletech combina potencia y mejor
@@ -15,11 +16,11 @@ tags:
   - creatina maracay
 publishedAt: 2026-04-07T18:10:00.000Z
 updatedAt: 2026-04-07T18:10:00.000Z
-readingTime: 4 min
 featured: true
 author:
   name: Equipo Fitness Maracay
   role: Asesoría en suplementación deportiva
+readingTime: 4 min
 seo:
   title: "Creatina Muscletech HCL + Monohidratada: beneficios y cómo tomarla"
   description: "Todo sobre la creatina Muscletech HCL + monohidratada: beneficios,
