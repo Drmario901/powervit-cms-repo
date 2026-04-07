@@ -8,7 +8,7 @@ tags:
 publishedAt: 2026-04-07T17:36:00.000Z
 updatedAt: 2026-04-07T17:36:00.000Z
 readingTime: ewfwewefwef
-featured: true
+featured: false
 author:
   name: efewfwf
   role: wefefw
