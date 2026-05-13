@@ -164,4 +164,4 @@ Entrenar en Maracay requiere estrategia. No basta con ir al gimnasio, necesitas:
 Si aplicas estos principios, vas a notar mejoras reales en fuerza, rendimiento y masa muscular.
 
 Compra aquí:  
-[Creatina MuscleTech Platinum en Powervit](https://powervit.fit/productos/suplementos/creatina-muscletech)
+[Creatina MuscleTech Platinum en Powervit](https://powervit.fit/productos/suplementos/muscletech-creatina-platinum-monohidratada-80-servicios)
