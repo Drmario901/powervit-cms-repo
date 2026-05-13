@@ -14,7 +14,7 @@ tags:
   - aragua
   - musculacion
 publishedAt: 2026-04-23T17:44:00.000Z
-featured: false
+featured: true
 author:
   name: Equipo Fitness Maracay
   role: Entrenador
